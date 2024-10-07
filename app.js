@@ -19,5 +19,7 @@ app.listen(3000,()=>{
 //github pe jaake new resposutrt bnaahau
 //phir jo path milega terminak mein copy krna hai
 
+//routes ke order bhuthi important hote hai code mien
+
 
 //how to push on github
